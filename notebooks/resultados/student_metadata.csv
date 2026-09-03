@@ -1,0 +1,2 @@
+dataset,fase,sensitive_mode,task,n_classes,alpha,operator,lambda_fair,eta_fair,block_size,update_every_n_blocks,class_aggregation,w_spd,w_eod,w_di,normalize_disparity,thr_spd,thr_eod,thr_di,tau_j,disparity_mode_gad,disparity_mode_mad,drop_sensitive_from_X,n_features,profile_kind,test_size,random_state
+student,mitigacion,sex,multiclass,3,0.65,minmax,0.2,5,32,1,mean,1.0,1.0,0.0,True,0.1,0.1,0.8,0.0,directional,symmetric,False,56,multiclass,0.2,42

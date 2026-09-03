@@ -1,0 +1,13 @@
+Dataset,Modelo,Nº de bloques,D_g en el primer bloque,D_g en el último bloque,Bloque de estabilización,Rango de la señal
+Adult,Fair-GAD,20,0.0973,0.0261,12,0.0832
+Adult,Fair-MAD,20,0.0973,0.0637,7,0.0384
+Dutch Census,Fair-GAD,20,0.0442,0.0072,20,0.0442
+Dutch Census,Fair-MAD,20,0.0442,0.0225,19,0.0242
+COMPAS,Fair-GAD,20,0.3886,0.1106,16,0.3886
+COMPAS,Fair-MAD,20,0.3886,0.2933,3,0.1058
+OULAD,Fair-GAD,20,0.0889,0.017,18,0.0744
+OULAD,Fair-MAD,20,0.0889,0.0797,13,0.0145
+Communities and Crime,Fair-GAD,20,0.1576,0.0514,11,0.117
+Communities and Crime,Fair-MAD,20,0.1576,0.0861,15,0.1008
+Student Performance,Fair-GAD,17,0.0923,0.0,16,0.0958
+Student Performance,Fair-MAD,17,0.0923,0.0,17,0.0958

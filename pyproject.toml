@@ -1,0 +1,25 @@
+[project]
+name = "lamda-fairness"
+version = "0.1.0"
+description = "Detección y mitigación de sesgos algorítmicos en LAMDA para clasificación supervisada"
+authors = [{ name = "José Alarcos Navarro" }]
+requires-python = ">=3.10"
+
+dependencies = [
+    "numpy",
+    "pandas",
+    "scikit-learn",
+    "matplotlib",
+    "seaborn",
+    "jupyter",
+    "fairlearn",
+    "aif360",
+    "ucimlrepo"
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"

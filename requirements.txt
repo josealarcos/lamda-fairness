@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
+notebook
+ipykernel
+fairlearn
+aif360
+ucimlrepo
+pytest

@@ -1,0 +1,7 @@
+Dataset,Atributo,|SPD| LAMDA,|SPD| literatura,Fuente
+Adult,sex,0.1817328978188114,0.0555,"Le Quy et al. (2022), Tabla 15"
+Dutch Census,sex,0.1723977422247624,0.3568,"Le Quy et al. (2022), Tabla 15"
+COMPAS,race,0.3329779554667111,0.3398,"Le Quy et al. (2022), Tabla 15"
+OULAD,gender,0.0279645673593141,,sin comparable (versión multiclase)
+Communities and Crime,black,0.2536308357203879,,sin comparable (versión multiclase)
+Student Performance,sex,0.0746031746031746,,sin comparable (versión multiclase)

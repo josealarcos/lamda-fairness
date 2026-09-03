@@ -1,0 +1,49 @@
+feature,w_j,D_j
+highest_education_No Formal quals,0.9124332020384647,0.019194127913342594
+imd_band_90-100%,0.9622571877886593,0.007844641264374771
+imd_band_80-90%,0.9736125160120985,0.005420530971804741
+imd_band_60-70%,0.9802216873597271,0.00403547746296995
+code_module_EEE,0.9827876742589623,0.003502755720662873
+region_South Region,0.9839609770157742,0.0032600933083484496
+age_band_55<=,0.9849497182622086,0.0030560507726923175
+imd_band_50-60%,0.9945375725363076,0.0010984858922447327
+code_module_CCC,0.9961937494717142,0.0007641586850558463
+imd_band_40-50%,0.9962317498208956,0.0007565007197937595
+region_South West Region,0.9971346647493402,0.0005747137978359268
+imd_band_70-80%,0.9976992046223071,0.00046122024895546565
+code_module_GGG,0.9978669098262581,0.00042752999477922715
+region_East Anglian Region,0.9983391878714738,0.0003327150028172715
+age_band_0-35,1.0,0.0
+imd_band_30-40%,1.0,0.0
+imd_band_20-30%,1.0,0.0
+imd_band_10-20,1.0,0.0
+imd_band_0-10%,1.0,0.0
+highest_education_Post Graduate Qualification,1.0,0.0
+age_band_35-55,1.0,0.0
+highest_education_Lower Than A Level,1.0,0.0
+highest_education_HE Qualification,1.0,0.0
+highest_education_A Level or Equivalent,1.0,0.0
+region_Yorkshire Region,1.0,0.0
+region_West Midlands Region,1.0,0.0
+num_of_prev_attempts,1.0,0.0
+disability_N,1.0,0.0
+studied_credits,1.0,0.0
+code_module_AAA,1.0,0.0
+code_module_BBB,1.0,0.0
+code_module_DDD,1.0,0.0
+code_module_FFF,1.0,0.0
+code_presentation_2013B,1.0,0.0
+code_presentation_2013J,1.0,0.0
+code_presentation_2014B,1.0,0.0
+region_Wales,1.0,0.0
+code_presentation_2014J,1.0,0.0
+gender_M,1.0,0.0
+region_East Midlands Region,1.0,0.0
+region_Ireland,1.0,0.0
+region_London Region,1.0,0.0
+region_North Region,1.0,0.0
+region_North Western Region,1.0,0.0
+region_Scotland,1.0,0.0
+region_South East Region,1.0,0.0
+gender_F,1.0,0.0
+disability_Y,1.0,0.0
